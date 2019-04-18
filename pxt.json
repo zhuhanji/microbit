@@ -1,7 +1,7 @@
 {
     "name": "microbot",
     "version": "0.0.1",
-    "description": "Extension for LewanSoul Microbot",
+    "description": " Microbot",
     "license": "MIT",
     "dependencies": {
         "core": "*"
