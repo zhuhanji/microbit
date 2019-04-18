@@ -1,13 +1,17 @@
-# microbit
+# Microbot
 
-Hsbit
+Extension for Lewansoul Microbot
 
-Micro:bit机械手小车扩展版包
-
-执照
+## License
 
 MIT
 
-支持的目标
+## Supported targets
 
-对于PXT / microbit（包搜索需要上面的元数据。）
+* for PXT/Microbit
+(The metadata above is needed for package search.)
+
+```package
+Microbot=github:LewanSoul2018/pxt-Microbot
+```
+
